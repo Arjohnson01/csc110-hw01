@@ -57,7 +57,8 @@ def main():
     print ("Part 1: a =", a)
     print ("Part 1: b =", b)
     print ("Part 1: c =", c)
-    print (result1)
+#result1 failed
+    print ("Part 1: result =", result1)
     
     # End of Part 1 ----------------------
 
