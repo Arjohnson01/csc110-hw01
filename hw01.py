@@ -70,7 +70,7 @@ def main():
     y=-3
     result2=(x**2*y**4)
     print ("Part 2: x =",x)
-    print ("Part 2: y=",y)
+    print ("Part 2: y =",y)
     print ("Part 2: result =", result2)
     # End of Part 2 ----------------------
 
