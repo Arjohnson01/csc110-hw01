@@ -45,7 +45,20 @@ def main():
     # Part 1: Basic Operations
     # =============================================
     # Your code for part 1 under this line and before the print statements
-
+    # assign variable
+    x=27
+    y=1
+    a=1.5
+    b=7
+    c=-1
+    result1=((3*x-9*y)//(2*a*(b-c)))
+    print ("part 1: x = 27")
+    print ("part 1: y = 1")
+    print ("part 1: a = 1.5")
+    print ("part 1: b = 7")
+    print ("part 1: c = -1")
+    
+    
     # End of Part 1 ----------------------
 
 
