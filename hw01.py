@@ -52,12 +52,12 @@ def main():
     b=7
     c=-1
     result1=((3*x-9*y)//(2*a*(b-c)))
-    print ("part 1: x = 27")
-    print ("part 1: y = 1")
-    print ("part 1: a = 1.5")
-    print ("part 1: b = 7")
-    print ("part 1: c = -1")
-    
+    print ("part 1: x =", x)
+    print ("part 1: y =", y)
+    print ("part 1: a =", a)
+    print ("part 1: b =", b)
+    print ("part 1: c =", c)
+    print (result1)
     
     # End of Part 1 ----------------------
 
